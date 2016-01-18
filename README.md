@@ -1,4 +1,4 @@
-uniwue-dmir.github.io
+dmirwue.github.io
 =====================
 
 Web presence and maven repository for the DMIR group at GitHub.
